@@ -1,0 +1,13 @@
+{
+  "name": "Evernote Fix",
+  "description": "Fixes the Evernote 'Notes' pane to be collapsible",
+  "developer": {
+    "name": "Doug Sherk <doug@sherk.me>",
+    "url": "http://github.com/DouglasSherk"
+  },
+  "customizations": [{
+    "filter": "https://www.evernote.com",
+    "scripts": ["addon.js"]
+  }],
+  "role": "addon"
+}
